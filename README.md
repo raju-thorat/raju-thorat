@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,Angular,Spring,Kubernetes,Docker,AWS
 - 🌱 I’m currently learning Docker , Kubernetes and Rancher
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...raju.thorat@gmail.com
+- 📫 How to reach me raju.thorat@gmail.com
 
 <!---
 raju-thorat/raju-thorat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
